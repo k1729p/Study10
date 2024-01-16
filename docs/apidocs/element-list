@@ -1,0 +1,7 @@
+kp.common
+kp.consumer
+kp.consumer.controller
+kp.consumer.service
+kp.producer
+kp.producer.controller
+kp.registration
